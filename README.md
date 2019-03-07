@@ -10,7 +10,7 @@ To install run
 devtools::github_install("frycast/JCM")
 ```
 
-You may need to install the geneplotter package from Bioconductor
+You may need to install the geneplotter package from Bioconductor first
 ```r
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
