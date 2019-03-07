@@ -1,6 +1,6 @@
 # JCM
 
-An R package to implement [Joint Clustering and Matching (JCM)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100334)
+An R package to implement [Joint Clustering and Matching (JCM)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100334) by Geoff McLachlan, Kui Wang, Angus Ng and David Peel.
 
 ### Installation
 
